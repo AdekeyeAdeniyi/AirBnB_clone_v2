@@ -69,4 +69,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Brent Muha** - [bmuha1](https://github.com/bmuha1)
+* **Adekeye Adeniyi** - [AdekeyeAdeniyi](https://github.com/adekeyeadeniyi)
