@@ -22,7 +22,8 @@ class State(BaseModel, Base):
     else:
         @property
         def cities(self):
-            """Return list of City instances with state_id equal to current
+            """
+            Return list of City instances with state_id equal to current
             State.id
             """
             list_cities = []
